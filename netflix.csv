@@ -1,0 +1,16 @@
+show_id,type,title,director,country,release_year,listed_in
+s1,Movie,The Great Escape,John Lee,United States,2018,Action
+s2,TV Show,Love Stories,Anna Smith,India,2020,Romance
+s3,Movie,Future World,David Kim,Canada,2019,Drama
+s4,Movie,Comedy Nights,Robert Brown,United Kingdom,2017,Comedy
+s5,TV Show,Detective Files,Chris Evans,United States,2021,Thriller
+s6,Movie,Wild Nature,Sara Lee,France,2016,Documentary
+s7,TV Show,Campus Life,Ankit Verma,India,2019,Drama
+s8,Movie,Samurai Legend,Takeshi Ito,Japan,2015,Action
+s9,Movie,Paris Dreams,Claire Dubois,France,2018,Romance
+s10,TV Show,Food World,Emily Stone,United Kingdom,2022,Documentary
+s11,Movie,Hidden Truth,Michael Clark,Canada,2017,Thriller
+s12,TV Show,K-Drama Love,Ji Woo,South Korea,2021,Romance
+s13,Movie,City Lights,Raj Mehta,India,2019,Drama
+s14,Movie,Action Hero,James Bond,United States,2020,Action
+s15,TV Show,Funny Moments,Oliver Twist,United Kingdom,2018,Comedy
